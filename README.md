@@ -8,4 +8,5 @@ Short intro into parameters:
 5) PPDA (Passes Per Defensive Action): PPDA is a metric that measures the intensity of a team's pressing or defensive pressure. It calculates the average number of passes made by the opponent before a defensive action (such as a tackle, interception, or foul) is executed by the pressing team. A low PPDA value indicates high pressing intensity.
 6) OPPDA (Opponents' Passes Per Defensive Action): OPPDA is the counterpart of PPDA. It measures the average number of passes made by the opposition team before a defensive action is taken by the analyzed team. A high OPPDA value suggests that the analyzed team allows their opponents more passes before engaging in defensive actions.
 7) TEAM_VALUE: TEAM_VALUE represents the monetary valuation or worth of a football team. It takes into account various factors such as player market values, assets, revenue streams, brand value, and overall financial strength of the club to estimate the total value of the team as an entity.
- The rest is presented in the work itself.
+
+The rest is presented in the work itself.
